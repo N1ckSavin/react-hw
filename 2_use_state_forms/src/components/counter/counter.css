@@ -1,0 +1,27 @@
+.counter {
+    width: 300px;
+    max-height: 100%;
+    border: 1px solid gray;
+    margin-top: 200px;
+}
+.itemCenter{
+    margin-top: 20px;
+    font-size: 24px;
+}
+.PanelHandler__counter{
+    display: flex;
+}
+.ariaClick {
+    width: 100px;
+    height: 80px;
+    border: 1px solid gray
+}
+.removeClick{
+    background-color: rgb(252, 52, 52);
+}
+.resetClick{
+    background-color: rgb(238, 248, 179);
+}
+.addClick{
+    background-color: greenyellow;
+}
